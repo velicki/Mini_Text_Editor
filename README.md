@@ -1,10 +1,13 @@
-Mini Text Editor README
+# Mini Text Editor README
 
 
 Welcome to Mini Text Editor, a simple yet powerful text editing tool developed in Python using Tkinter for the graphical user interface (GUI). This text editor provides essential features for creating, editing, and saving text documents in a user-friendly environment.
 
 
 _____________________________________________________
+
+# WHAT I HAVE LEARNED!
+
 
 While writing the code for the Mini Text Editor project, I learned several valuable lessons:
 
@@ -30,7 +33,7 @@ Overall, developing the Mini Text Editor project provided me with valuable pract
 
 _____________________________________________________
 
-Features
+# Features
 
 
 Graphical User Interface (GUI)
@@ -59,7 +62,7 @@ Access information about the Mini Text Editor program through the "About" menu o
 
 _____________________________________________________
 
-How to Use
+# How to Use
 
 
 Installation: Download or clone the repository to your local machine.
